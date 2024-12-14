@@ -1,0 +1,139 @@
+{
+  "questions": [
+    {
+      "question": "Which element has the atomic number 79?",
+      "answers": [
+        {"answer": "Gold", "isCorrect": true},
+        {"answer": "Silver", "isCorrect": false},
+        {"answer": "Platinum", "isCorrect": false},
+        {"answer": "Copper", "isCorrect": false}
+      ]
+    },
+    {
+      "question": "In which year did the Titanic sink?",
+      "answers": [
+        {"answer": "1912", "isCorrect": true},
+        {"answer": "1905", "isCorrect": false},
+        {"answer": "1920", "isCorrect": false},
+        {"answer": "1898", "isCorrect": false}
+      ]
+    },
+    {
+      "question": "What is the capital of Bhutan?",
+      "answers": [
+        {"answer": "Thimphu", "isCorrect": true},
+        {"answer": "Kathmandu", "isCorrect": false},
+        {"answer": "Colombo", "isCorrect": false},
+        {"answer": "Dhaka", "isCorrect": false}
+      ]
+    },
+    {
+      "question": "What is the square root of 144?",
+      "answers": [
+        {"answer": "10", "isCorrect": false},
+        {"answer": "12", "isCorrect": true},
+        {"answer": "14", "isCorrect": false},
+        {"answer": "16", "isCorrect": false}
+      ]
+    },
+    {
+      "question": "Who discovered penicillin?",
+      "answers": [
+        {"answer": "Marie Curie", "isCorrect": false},
+        {"answer": "Alexander Fleming", "isCorrect": true},
+        {"answer": "Louis Pasteur", "isCorrect": false},
+        {"answer": "Isaac Newton", "isCorrect": false}
+      ]
+    },
+    {
+      "question": "Which planet is known as the Red Planet?",
+      "answers": [
+        {"answer": "Mars", "isCorrect": true},
+        {"answer": "Venus", "isCorrect": false},
+        {"answer": "Jupiter", "isCorrect": false},
+        {"answer": "Saturn", "isCorrect": false}
+      ]
+    },
+    {
+      "question": "What is the longest river in the world?",
+      "answers": [
+        {"answer": "Amazon River", "isCorrect": true},
+        {"answer": "Nile River", "isCorrect": false},
+        {"answer": "Yangtze River", "isCorrect": false},
+        {"answer": "Mississippi River", "isCorrect": false}
+      ]
+    },
+    {
+      "question": "In which year did World War I begin?",
+      "answers": [
+        {"answer": "1914", "isCorrect": true},
+        {"answer": "1912", "isCorrect": false},
+        {"answer": "1916", "isCorrect": false},
+        {"answer": "1920", "isCorrect": false}
+      ]
+    },
+    {
+      "question": "What is the chemical symbol for potassium?",
+      "answers": [
+        {"answer": "P", "isCorrect": false},
+        {"answer": "K", "isCorrect": true},
+        {"answer": "Na", "isCorrect": false},
+        {"answer": "Pe", "isCorrect": false}
+      ]
+    },
+    {
+      "question": "What is the capital city of Canada?",
+      "answers": [
+        {"answer": "Ottawa", "isCorrect": true},
+        {"answer": "Toronto", "isCorrect": false},
+        {"answer": "Vancouver", "isCorrect": false},
+        {"answer": "Montreal", "isCorrect": false}
+      ]
+    },
+    {
+      "question": "Which famous scientist developed the theory of general relativity?",
+      "answers": [
+        {"answer": "Isaac Newton", "isCorrect": false},
+        {"answer": "Albert Einstein", "isCorrect": true},
+        {"answer": "Nikola Tesla", "isCorrect": false},
+        {"answer": "Galileo Galilei", "isCorrect": false}
+      ]
+    },
+    {
+      "question": "What is the hardest natural substance on Earth?",
+      "answers": [
+        {"answer": "Gold", "isCorrect": false},
+        {"answer": "Iron", "isCorrect": false},
+        {"answer": "Diamond", "isCorrect": true},
+        {"answer": "Platinum", "isCorrect": false}
+      ]
+    },
+    {
+      "question": "Who was the first emperor of China?",
+      "answers": [
+        {"answer": "Cao Cao", "isCorrect": false},
+        {"answer": "Qin Shi Huang", "isCorrect": true},
+        {"answer": "Liu Bang", "isCorrect": false},
+        {"answer": "Tang Taizong", "isCorrect": false}
+      ]
+    },
+    {
+      "question": "Which country is the largest producer of coffee?",
+      "answers": [
+        {"answer": "Brazil", "isCorrect": true},
+        {"answer": "Colombia", "isCorrect": false},
+        {"answer": "Vietnam", "isCorrect": false},
+        {"answer": "Ethiopia", "isCorrect": false}
+      ]
+    },
+    {
+      "question": "Which city is known as the City of Lights?",
+      "answers": [
+        {"answer": "Paris", "isCorrect": true},
+        {"answer": "London", "isCorrect": false},
+        {"answer": "New York", "isCorrect": false},
+        {"answer": "Tokyo", "isCorrect": false}
+      ]
+    }
+  ]
+}
